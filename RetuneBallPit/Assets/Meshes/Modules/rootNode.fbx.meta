@@ -1,0 +1,172 @@
+fileFormatVersion: 2
+guid: 4ec82b9a08b76cd4ab566966f2485238
+timeCreated: 1475661864
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: snap
+    100004: snap_1
+    100006: snap_10
+    100008: snap_11
+    100010: snap_12
+    100012: snap_13
+    100014: snap_14
+    100016: snap_15
+    100018: snap_16
+    100020: snap_17
+    100022: snap_18
+    100024: snap_19
+    100026: snap_2
+    100028: snap_20
+    100030: snap_21
+    100032: snap_22
+    100034: snap_23
+    100036: snap_24
+    100038: snap_25
+    100040: snap_26
+    100042: snap_27
+    100044: snap_28
+    100046: snap_29
+    100048: snap_3
+    100050: snap_30
+    100052: snap_31
+    100054: snap_32
+    100056: snap_33
+    100058: snap_34
+    100060: snap_35
+    100062: snap_36
+    100064: snap_37
+    100066: snap_38
+    100068: snap_39
+    100070: snap_4
+    100072: snap_40
+    100074: snap_5
+    100076: snap_6
+    100078: snap_7
+    100080: snap_8
+    100082: snap_9
+    100084: snap_41
+    100086: snap_42
+    100088: snap_43
+    100090: snap_44
+    100092: snap_45
+    100094: snap_46
+    100096: snap_47
+    400000: //RootNode
+    400002: snap
+    400004: snap_1
+    400006: snap_10
+    400008: snap_11
+    400010: snap_12
+    400012: snap_13
+    400014: snap_14
+    400016: snap_15
+    400018: snap_16
+    400020: snap_17
+    400022: snap_18
+    400024: snap_19
+    400026: snap_2
+    400028: snap_20
+    400030: snap_21
+    400032: snap_22
+    400034: snap_23
+    400036: snap_24
+    400038: snap_25
+    400040: snap_26
+    400042: snap_27
+    400044: snap_28
+    400046: snap_29
+    400048: snap_3
+    400050: snap_30
+    400052: snap_31
+    400054: snap_32
+    400056: snap_33
+    400058: snap_34
+    400060: snap_35
+    400062: snap_36
+    400064: snap_37
+    400066: snap_38
+    400068: snap_39
+    400070: snap_4
+    400072: snap_40
+    400074: snap_5
+    400076: snap_6
+    400078: snap_7
+    400080: snap_8
+    400082: snap_9
+    400084: snap_41
+    400086: snap_42
+    400088: snap_43
+    400090: snap_44
+    400092: snap_45
+    400094: snap_46
+    400096: snap_47
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: rootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
